@@ -1,5 +1,5 @@
 ## 🗞 Notion x News
-Been working on some fun Notion hacks recently using [Notion-Py](https://github.com/jamalex/notion-py) (like a Notion x Sheets and Notion x Stocks and thought that it would be fun to be able to read my news in Notion! Thus an idea was born.
+Been working on some fun Notion hacks recently using [Notion-Py](https://github.com/jamalex/notion-py) (like a _[Notion x Sheets](https://github.com/aakashadesara/notion-google-sheets-sync)_ and _[Notion x Stocks](https://github.com/aakashadesara/notion-stocks)_ and thought that it would be fun to be able to read my news in Notion! Thus an idea was born.
 
 ![Notion News Demo Screenshot](/demo.png)
 
