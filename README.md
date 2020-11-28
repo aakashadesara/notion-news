@@ -3,7 +3,7 @@ Been working on some fun Notion hacks recently using [Notion-Py](https://github.
 
 ![Notion News Demo Screenshot](/demo.png)
 
-### How to Use Notion x Google Sync
+### How to Use Notion x News
 1. Get your Notion V2 Token by visiting your Notion page from a browser and copy the token_v2 Cookie. Replace `<YOUR_NOTION_TOKEN_V2>` with the cookie.
 
 2. Make a new empty Notion page and replace `<YOUR_NOTION_PAGE_LINK>` in `news.py` with the link of the new page. 
