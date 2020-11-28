@@ -2,8 +2,6 @@ from __future__ import print_function
 import pickle
 import os.path
 import threading
-import sys
-import math
 import requests
 
 from notionpy.notion.client import NotionClient
